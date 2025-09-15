@@ -4,7 +4,16 @@
     "License": "CC0",
     "DatasetType": "raw",
     "Authors": [
-        "Enter author names here"
+        "Enter author names here",
+        "Laura B. Carlton",
+        "Miray Altinkaynak",
+        "Shannon Kelley",
+        "Bernhard Zimmerman",
+        "Sreekanth Kura",
+        "Eike Middell",
+        "Alexander von Luhmann",
+        "Meryem A. Yucel",
+        "David A. Boas"
     ],
     "Acknowledgements": "Enter acknowledgements here (e.g., funding sources, institutions).",
     "HowToAcknowledge": "Provide details on how to cite or acknowledge this dataset.",
